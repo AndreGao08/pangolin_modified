@@ -1,0 +1,4 @@
+build/
+pangolin.cpython-36m-x86_64-linux-gnu.so
+pangolin.cpython-37m-x86_64-linux-gnu.so
+pangolin.cpython-38-x86_64-linux-gnu.so
